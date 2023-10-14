@@ -48,4 +48,6 @@ References
 
 Deeply Moving: Deep Learning for Sentiment Analysis. “Deeply Moving: Deep Learning for Sentiment Analysis.” Accessed October 13, 2023. http://nlp.stanford.edu/sentiment/index.html.
 
+https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english#training-data
+
 Varshney, Neeraj. “Domain Adaptation for Sentiment Analysis.” Analytics Vidhya (blog), June 2, 2020. https://medium.com/analytics-vidhya/domain-adaptation-for-sentiment-analysis-d1930e6548f4. 
