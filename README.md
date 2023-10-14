@@ -1,7 +1,7 @@
 Sentiment Analysis: A Simple Model for Demonstration
 Guide
 
-What is different now is that with ML and generative AI, sentiment analysis can be conducted at scale on any topic at any time, at least in theory. Data scientists with access to sufficient amounts of streaming (live) or historical (regularly updated) data, of any mode (video, text, audio) can now do in days what used to take professional pollsters weeks and months to assemble. 
+What is different now is that with ML and generative AI, sentiment analysis can be conducted at scale on any topic at any time, at least in theory. Data scientists with access to sufficient amounts of streaming (live) or historical (regularly updated) data, of any mode (video, text, audio) can now do in a day what used to take professional pollsters weeks and months to assemble. 
 
 This simple model is to demonstrate how ML and generative AI are used to conduct sentiment analysis. This model analyzes one data set made up of historical data of reviews on movies and TV shows in a single mode (digital text) and return the sentiment analysis in two ways: positive or negative. 
 
